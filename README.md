@@ -25,4 +25,4 @@ example https://XXXXXXX.ngrok-free.app -> http://localhost:1337 where 1337 is th
 
 Facebook Developer Account
 
-Update Webhook url with ngrok URL and verfify_token which you assigned in .env file in NodeJS  
+Update Webhook url with ngrok URL and verify_token which you assigned in .env file in NodeJS  
